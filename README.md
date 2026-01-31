@@ -1,25 +1,26 @@
-# 🎌 OtakuGO (Projet)
+# OtakuGO (Projet)
 
 **Projet de développement d'une application mobile & web de découverte d'animes.**
 
 OtakuGO est un **projet personnel / étudiant** développé pour explorer Flutter et le développement multiplateforme. L'objectif est de créer une application ludique permettant aux utilisateurs de découvrir des animes via une interface intuitive.
 
-## ✨ Fonctionnalités Implémentées
+## Fonctionnalités Implémentées
 
--   🔥 **Swipe & Discover** : Interface de swipe pour liker/passer des animes.
--   🏆 **Tier List** : Classement par glisser-déposer.
--   ⚔️ **Tournois** : Système de vote interactif.
--   ❤️ **Favoris** : Sauvegarde locale des préférences.
--   📊 **Dashboard** : Visualisation des statistiques utilisateur.
--   🌍 **Web Responsive** : Adaptation de l'interface mobile pour les navigateurs.
+-   **Swipe & Discover** : Interface de swipe pour liker/passer des animes.
+-   **Tier List** : Classement par glisser-déposer.
+-   **Tournois** : Système de vote interactif.
+-   **Favoris** : Sauvegarde locale des préférences.
+-   **Dashboard** : Visualisation des statistiques utilisateur.
+-   **Web Responsive** : Adaptation de l'interface mobile pour les navigateurs.
 
-## 🚀 Démo Web
+## Démo Web
 
 Le projet est accessible en ligne ici :
 
-👉 **[Voir le projet OtakuGO](https://DiarraKonte.github.io/OtakuGO/)**
+**[Voir le projet OtakuGO](https://DiarraKonte.github.io/OtakuGO/)**
+Certains geste pourrait avoir du mal a s'effectuer car elle n'as pa ete pleinement optimiser pour le web
 
-## 📱 Lancer le projet localement
+## Lancer le projet localement
 
 1.  **Cloner le dépôt** :
     ```bash
@@ -45,3 +46,4 @@ Le projet est accessible en ligne ici :
 ## 👤 Auteur
 
 **Diarra Konte** - *Créateur du projet*
+et 4 autres camarades
