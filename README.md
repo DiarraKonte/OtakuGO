@@ -42,8 +42,3 @@ Certains geste pourrait avoir du mal a s'effectuer car elle n'as pa ete pleineme
 -   **Framework** : Flutter
 -   **Gestion d'état** : Provider
 -   **CI/CD** : GitHub Actions
-
-## 👤 Auteur
-
-**Diarra Konte** - *Créateur du projet*
-et 4 autres camarades
